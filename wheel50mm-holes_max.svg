@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="56.79521944617954mm"
+   height="58.25167599017942mm"
+   viewBox="0 0 56.79521944617954 58.25167599017942"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="wheel50mm-holes_max.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="7.7238748"
+     inkscape:cx="107.32955"
+     inkscape:cy="110.04839"
+     inkscape:window-width="1880"
+     inkscape:window-height="1052"
+     inkscape:window-x="40"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <g
+     id="Unfold_Sketch"
+     transform="translate(27.033580,29.164521) scale(1,-1)">
+    <path
+       id="Unfold_Sketch_w0000"
+       d="M -26.476763648012316 -22.236018135184814 A 5.12142 5.12142 0 0 1 -21.4769 -27.5258L 21.831068031247206 -28.530339577934477 A 5.84659 5.84659 0 0 1 27.8106 -22.8621L 29.204824044320567 23.23293591995136 A 5.22104 5.22104 0 0 1 23.7787 28.6077L -20.142504713456795 26.860737068715878 A 5.0727 5.0727 0 0 1 -25.0108 21.9602L -26.476763648012316 -22.236018135184814 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd" />
+    <path
+       id="Unfold_Sketch_w0001"
+       d="M -21.940190523204098 -16.550610250297844 A 4.43317 4.43317 0 1 1 -14.113 -20.6656L -13.079247486371248 -17.392598851609183 A 3.45148 3.45148 0 0 1 -17.3753 -11.9901L -21.940190523204098 -16.550610250297844 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd" />
+    <title
+       id="title4">b'Unfold_Sketch'</title>
+  </g>
+</svg>
